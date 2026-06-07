@@ -1,0 +1,26 @@
+{
+  "title": "Board",
+  "autosave": false,
+  "columns": [
+    {
+      "name": "Backlog",
+      "order": 0,
+      "color": "#3794ff"
+    },
+    {
+      "name": "In Progress",
+      "order": 1,
+      "color": "#cca700"
+    },
+    {
+      "name": "Review",
+      "order": 2,
+      "color": "#c586c0"
+    },
+    {
+      "name": "Done",
+      "order": 3,
+      "color": "#89d185"
+    }
+  ]
+}
